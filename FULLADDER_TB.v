@@ -30,6 +30,6 @@ cin = 1;
 #100
 a = 9;
 b = 7;
-cin = 0;
+cin = 1;
 end
 endmodule
